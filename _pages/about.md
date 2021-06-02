@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-![Picture of Me](../images/kfdong.png)
+<!--- ![Picture of Me](../images/kfdong.png) --->
 
 I am a first-year PhD student at Computer Science Department Stanford University.
 I am extremely fortunate to be advised Prof. [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). 
