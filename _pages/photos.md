@@ -11,3 +11,7 @@ author_profile: true
 <img src="/images/photos-2.png" width="50%">
 
 <img src="/images/photos-3.png" width="50%">
+
+<img src="/images/photos-4.png" width="50%">
+
+<img src="/images/photos-5.png" width="50%">
