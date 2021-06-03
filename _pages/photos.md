@@ -4,12 +4,10 @@ title: ""
 permalink: /photos/
 author_profile: true
 ---
-# A List of Photographs
+# Important Things in My Life
 
-<img src="/images/photos-2.png" width="50%">
+I was the leader of the [IIIS baseball team](/images/baseball.jpeg).
 
-<img src="/images/photos-3.png" width="50%">
+I like to travel and take photographs ([1](/images/photos-2.png), [2](/images/photos-3.png), [3](/images/photos-4.png), [4](/images/photos-5.png)).
 
-<img src="/images/photos-4.png" width="50%">
-
-<img src="/images/photos-5.png" width="50%">
+My lovely [girlfriend](/images/photos-1.png).
