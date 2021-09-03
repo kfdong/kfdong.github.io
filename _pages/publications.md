@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 [Design of Experiments for Stochastic Contextual Linear Bandits](https://arxiv.org/abs/2107.09912)\\
-Andrea Zanette\*, *Kefan Dong*\*, Jonathan Lee\*, Emma Brunskil\\
+Andrea Zanette\*, *Kefan Dong*\*, Jonathan Lee\*, Emma Brunskill\\
 Manuscipt
 
 [Provable Model-based Nonlinear Bandit and Reinforcement Learning: Shelve Optimism, Embrace Virtual Curvature](https://arxiv.org/abs/2102.04168)\\
