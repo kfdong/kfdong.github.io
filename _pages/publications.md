@@ -7,11 +7,11 @@ author_profile: true
 
 [Design of Experiments for Stochastic Contextual Linear Bandits](https://arxiv.org/abs/2107.09912)\\
 Andrea Zanette\*, *Kefan Dong*\*, Jonathan Lee\*, Emma Brunskill\\
-Manuscipt
+NeurIPS 2021
 
 [Provable Model-based Nonlinear Bandit and Reinforcement Learning: Shelve Optimism, Embrace Virtual Curvature](https://arxiv.org/abs/2102.04168)\\
 *Kefan Dong*, Jiaqi Yang, Tengyu Ma\\
-Manuscipt
+NeurIPS 2021
 
 [Refined Analysis of FPL for Adversarial Markov Decision Processes](https://arxiv.org/abs/2008.09251)\\
 Yuanhao Wang, *Kefan Dong*\\
