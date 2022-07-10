@@ -7,10 +7,49 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-# About Me
+## About Me
 
 I am a second-year PhD student at Computer Science Department, Stanford University.
 I am extremely fortunate to be advised Prof. [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). 
 Before that, I studied as an undergraduate at Institute for Interdisciplinary Information Sciences, Tsinghua University (a.k.a. [Yao class](https://iiis.tsinghua.edu.cn/en/yaoclass/)). 
 I am broadly interested in reinforcement learning theory, online learning and algorithm design.
+
+
+
+## Publications
+
+[Asymptotic Instance-Optimal Algorithms for Interactive Decision Making](https://arxiv.org/abs/2206.02326)\\
+*Kefan Dong*, Tengyu Ma\\
+Manuscript
+
+[Design of Experiments for Stochastic Contextual Linear Bandits](https://arxiv.org/abs/2107.09912)\\
+Andrea Zanette\*, *Kefan Dong*\*, Jonathan Lee\*, Emma Brunskill\\
+NeurIPS 2021
+
+[Provable Model-based Nonlinear Bandit and Reinforcement Learning: Shelve Optimism, Embrace Virtual Curvature](https://arxiv.org/abs/2102.04168) ([video](https://www.youtube.com/watch?v=rlug_YXt5yo), [slides](../slides/viol-RLseminar.pdf))\\
+*Kefan Dong*, Jiaqi Yang, Tengyu Ma\\
+NeurIPS 2021
+
+[Refined Analysis of FPL for Adversarial Markov Decision Processes](https://arxiv.org/abs/2008.09251)\\
+Yuanhao Wang, *Kefan Dong*\\
+Theoretical Foundations of Reinforcement Learning Workshop, ICML 2020
+
+[Multinomial Logit Bandit with Low Switching Cost](https://arxiv.org/abs/2007.04876)\\
+*Kefan Dong*\*, Yingkai Li\*, Qin Zhang, Yuan Zhou\\
+ICML 2020
+
+[On the Expressivity of Neural Networks for Deep Reinforcement Learning](https://arxiv.org/abs/1910.05927)\\
+*Kefan Dong*\*, Yuping Luo\*, Tengyu Ma\\
+ICML 2020
+
+[Root-n-Regret for Learning in Markov Decision Processes with Function Approximation and Low Bellman Rank](https://arxiv.org/abs/1909.02506)\\
+*Kefan Dong*\*, Jian Peng\*, Yining Wang\*, Yuan Zhou\*\\
+COLT 2020
+
+[Q-learning with UCB Exploration is Sample Efficient for Infinite-Horizon MDP](https://arxiv.org/abs/1901.09311)\\
+*Kefan Dong*\*, Yuanhao Wang\*, Xiaoyu Chen, Liwei Wang\\
+ICLR 2020
+
+[Exploration via Hindsight Goal Generation](https://arxiv.org/abs/1906.04279)\\
+Zhizhou Ren, *Kefan Dong*, Yuan Zhou, Qiang Liu, Jian Peng\\
+NeurIPS 2019
