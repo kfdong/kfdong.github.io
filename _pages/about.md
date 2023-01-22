@@ -20,11 +20,12 @@ I am broadly interested in reinforcement learning theory, online learning and al
 
 [First Steps Toward Understanding the Extrapolation of Nonlinear Models to Unseen Domains](https://arxiv.org/abs/2211.11719)\\
 *Kefan Dong*, Tengyu Ma\\
+ICLR 2023\\
 <span style="color:red">(spotlight)</span> Workshop on Distribution Shifts (DistShift), NeurIPS 2022 
 
 [Asymptotic Instance-Optimal Algorithms for Interactive Decision Making](https://arxiv.org/abs/2206.02326)\\
 *Kefan Dong*, Tengyu Ma\\
-Manuscript
+ICLR 2023
 
 [Design of Experiments for Stochastic Contextual Linear Bandits](https://arxiv.org/abs/2107.09912)\\
 Andrea Zanette\*, *Kefan Dong*\*, Jonathan Lee\*, Emma Brunskill\\
