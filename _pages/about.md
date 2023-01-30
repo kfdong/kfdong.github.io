@@ -27,6 +27,10 @@ ICLR 2023\\
 *Kefan Dong*, Tengyu Ma\\
 ICLR 2023
 
+[Model-based Offline Reinforcement Learning with Local Misspecification](https://arxiv.org/abs/2301.11426)\\
+*Kefan Dong*\*, Yannis Flet-Berliac\*, Allen Nie\*, Emma Brunskill\\
+AAAI 2023
+
 [Design of Experiments for Stochastic Contextual Linear Bandits](https://arxiv.org/abs/2107.09912)\\
 Andrea Zanette\*, *Kefan Dong*\*, Jonathan Lee\*, Emma Brunskill\\
 NeurIPS 2021
