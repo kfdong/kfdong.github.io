@@ -18,7 +18,7 @@ I am broadly interested in reinforcement learning theory, online learning and al
 
 ## Publications
 
-[First Steps Toward Understanding the Extrapolation of Nonlinear Models to Unseen Domains](https://arxiv.org/abs/2211.11719)\\
+[First Steps Toward Understanding the Extrapolation of Nonlinear Models to Unseen Domains](https://arxiv.org/abs/2211.11719) \\
 *Kefan Dong*, Tengyu Ma\\
 ICLR 2023\\
 <span style="color:red">(spotlight)</span> Workshop on Distribution Shifts (DistShift), NeurIPS 2022 
@@ -27,7 +27,7 @@ ICLR 2023\\
 *Kefan Dong*, Tengyu Ma\\
 ICLR 2023
 
-[Model-based Offline Reinforcement Learning with Local Misspecification](https://arxiv.org/abs/2301.11426)\\
+[Model-based Offline Reinforcement Learning with Local Misspecification](https://arxiv.org/abs/2301.11426) ([slides](../slides/AAAI23-MBLB.pdf))\\
 *Kefan Dong*\*, Yannis Flet-Berliac\*, Allen Nie\*, Emma Brunskill\\
 AAAI 2023
 
