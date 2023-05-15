@@ -19,7 +19,7 @@ I am broadly interested in reinforcement learning theory, online learning, and a
 ## Publications
 [Toward $L_\infty$-recovery of Nonlinear Functions: A Polynomial Sample Complexity Bound for Gaussian Random Fields](https://arxiv.org/abs/2305.00322) \\
 *Kefan Dong*, Tengyu Ma\\
-Manuscript
+COLT 2023
 
 [First Steps Toward Understanding the Extrapolation of Nonlinear Models to Unseen Domains](https://arxiv.org/abs/2211.11719) \\
 *Kefan Dong*, Tengyu Ma\\
