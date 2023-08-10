@@ -30,7 +30,7 @@ COLT 2023
 ICLR 2023\\
 <span style="color:red">(spotlight)</span> Workshop on Distribution Shifts (DistShift), NeurIPS 2022 
 
-[Asymptotic Instance-Optimal Algorithms for Interactive Decision Making](https://arxiv.org/abs/2206.02326)\\
+[Asymptotic Instance-Optimal Algorithms for Interactive Decision Making](https://arxiv.org/abs/2206.02326) ([video](https://www.youtube.com/watch?v=pgRUhV70KXw), [slides](../slides/instanceoptimal-RLseminar.pdf))\\
 *Kefan Dong*, Tengyu Ma\\
 ICLR 2023
 
