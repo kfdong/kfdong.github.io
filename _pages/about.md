@@ -19,7 +19,7 @@ I am broadly interested in reinforcement learning theory, online learning, and a
 ## Publications
 [Beyond NTK with Vanilla Gradient Descent: A Mean-Field Analysis of Neural Networks with Polynomial Width, Samples, and Time](https://arxiv.org/abs/2306.16361) \\
 Arvind Mahankali\*, Jeff Z. Haochen\*, *Kefan Dong*, Margalit Glasgow, Tengyu Ma\\
-Manuscript
+NeurIPS 2023
 
 [Toward $L_\infty$-recovery of Nonlinear Functions: A Polynomial Sample Complexity Bound for Gaussian Random Fields](https://arxiv.org/abs/2305.00322) \\
 *Kefan Dong*, Tengyu Ma\\
