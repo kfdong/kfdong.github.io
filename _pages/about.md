@@ -12,11 +12,14 @@ redirect_from:
 I am a fifth-year PhD student at Computer Science Department, Stanford University.
 I am extremely fortunate to be advised Prof. [Tengyu Ma](https://ai.stanford.edu/~tengyuma/). 
 Before that, I studied as an undergraduate at Institute for Interdisciplinary Information Sciences, Tsinghua University (a.k.a. [Yao class](https://iiis.tsinghua.edu.cn/en/yaoclass/)). 
-I am broadly interested in reinforcement learning theory, online learning, and algorithm design.
-
+I am broadly interested in LLM reasoning, reinforcement learning theory, online learning, and algorithm design.
 
 
 ## Publications
+[Formal Theorem Proving by Rewarding LLMs to Decompose Proofs Hierarchically](https://openreview.net/forum?id=D83tiHiNfF) \\
+**Kefan Dong**, Arvind Mahankali, Tengyu Ma\\
+The 4th Workshop on Mathematical Reasoning and AI, NeurIPS 2024
+
 [Beyond NTK with Vanilla Gradient Descent: A Mean-Field Analysis of Neural Networks with Polynomial Width, Samples, and Time](https://arxiv.org/abs/2306.16361) \\
 Arvind Mahankali\*, Jeff Z. Haochen\*, **Kefan Dong**, Margalit Glasgow, Tengyu Ma\\
 NeurIPS 2023
