@@ -16,7 +16,7 @@ I am broadly interested in LLM reasoning, reinforcement learning theory, online 
 
 
 ## Publications
-[Formal Theorem Proving by Rewarding LLMs to Decompose Proofs Hierarchically](https://openreview.net/forum?id=D83tiHiNfF) \\
+[Formal Theorem Proving by Rewarding LLMs to Decompose Proofs Hierarchically](https://arxiv.org/abs/2411.01829) \\
 **Kefan Dong**, Arvind Mahankali, Tengyu Ma\\
 The 4th Workshop on Mathematical Reasoning and AI, NeurIPS 2024
 
