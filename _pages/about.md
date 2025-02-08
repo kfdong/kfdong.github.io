@@ -15,7 +15,10 @@ Before that, I studied as an undergraduate at Institute for Interdisciplinary In
 I am broadly interested in LLM reasoning, reinforcement learning theory, online learning, and algorithm design.
 
 
-## Publications
+## Publications and Preprints
+[STP: Self-play LLM Theorem Provers with Iterative Conjecturing and Proving](https://arxiv.org/abs/2502.00212) \\
+**Kefan Dong**, Tengyu Ma\\
+
 [Formal Theorem Proving by Rewarding LLMs to Decompose Proofs Hierarchically](https://arxiv.org/abs/2411.01829) \\
 **Kefan Dong**, Arvind Mahankali, Tengyu Ma\\
 The 4th Workshop on Mathematical Reasoning and AI, NeurIPS 2024
